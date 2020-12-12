@@ -52,7 +52,7 @@ const Form = (props) => {
     for (let i = 0; i < numberOfData; i++) {
       for (let category of categories) {
         for (let key of Object.keys(options[category])) {
-          if (data[category][key] != undefined) {
+          if (data[category][key] !== undefined) {
             copyData[category][key] = faker[category][key]();
           }
         }
