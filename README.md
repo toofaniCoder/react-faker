@@ -1,3 +1,9 @@
+
+[Demo Link](https://react-faker.netlify.app/)
+
+# Screenshot
+!["react faker screenshot"](https://res.cloudinary.com/dxrbrkfvv/image/upload/v1607782127/github/screencapture-friendly-yonath-02d1cf-netlify-app-2020-12-12-19_32_19_fqkpbr.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
