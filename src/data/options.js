@@ -109,10 +109,7 @@ export const options = {
     sports: "",
     technics: "",
     transport: "",
-    dataUri: "",
-    lorempixel: "",
-    unsplash: "",
-    lorempicsum: "",
+    dataUri: ""   
   },
   internet: {
     avatar: "",
